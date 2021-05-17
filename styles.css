@@ -80,6 +80,18 @@ hr {
   font-size: 30px;
 }
 
+#fourth_section img {
+  max-width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.layout {
+  max-width: 65%;
+}
+/***************  @Media   ****************/
+
 @media (orientation: portrait) and (min-width: 600px) {
   #first_section {
     width: 100%;
